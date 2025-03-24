@@ -1,0 +1,20 @@
+ How do you select all columns from the `hr.employees` table?. 
+How do you select only the `first_name` and `last_name` of all employees?
+ How do you find employees with a salary greater than 3000?
+How do you find employees hired before January 1, 2015?
+ How do you retrieve employees who work in department 60?
+How do you list employees with the job title 'IT_PROG'?
+How do you find employees whose last names start with 'S'?
+ How do you retrieve the employees with a salary between 2000 and 5000?
+ How do you count the total number of employees?
+ How do you find employees who do not receive a commission?
+How do you find employees whose first name contains 'John'?
+ How do you list employees ordered by `last_name` in ascending order?
+How do you select the top 10 highest-paid employees?
+ How do you find the employee with the maximum salary?
+ How do you group employees by `department_id` and count how many employees each department has?
+ How do you find employees who were hired after '01-JAN-2020'?
+ How do you retrieve distinct job titles from the `hr.employees` table?
+How do you calculate the average salary of all employees?
+How do you select employees where the `job_id` is either 'IT_PROG' or 'SA_MAN'?
+20. How do you find the minimum salary in the `hr.employees` table?
