@@ -1,16 +1,9 @@
 ## Hi there 👋
-
-<!--
-**sruthi96312/sruthi96312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on codes
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:@sruthis963@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Sruthi
+I am Frm kerala
+I compleated BE Computer science Engineering .
+And also completed MBA Information System.
+I like to learn about Data Science and coding.
+When I get free time I like to read books.
+I am harworking person and like to work with a team.
+Need to stydy more about coding and data science ._
